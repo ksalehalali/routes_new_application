@@ -1,3 +1,3 @@
-const baseUrl = "https://dashcommerce.click68.com/api/";
+const baseUrl = "https://route.click68.com";
 const charactersScreen = '/';
 const characterDetailsScreen = "/character_details";

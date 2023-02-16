@@ -170,7 +170,6 @@ class _ProductsScreenState extends State<ProductsScreen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    BlocProvider.of<ProductsCubit>(context).getAllCharacters();
     getConnectivity();
   }
 

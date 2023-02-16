@@ -49,6 +49,10 @@ dependencies:
   qr_flutter: ^4.0.0
   shared_preferences: ^2.0.17
   intl: ^0.18.0
+  get: ^4.6.5
+  git: ^2.2.0
+  firebase_messaging: ^14.2.2
+  firebase_core: ^2.5.0
 
 dev_dependencies:
   flutter_test:
@@ -84,6 +88,7 @@ flutter:
   # https://flutter.dev/assets-and-images/#from-packages
   assets:
     - assets/images/
+    - assets/images/background/
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a

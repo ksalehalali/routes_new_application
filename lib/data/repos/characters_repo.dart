@@ -14,10 +14,4 @@ class ProductRepo {
     return products;
   }
 
-  // Future<List<Quote>> getAllCharQuotes(String charName) async {
-  //   final qoutes = await productsWebServices.getAllQuotes(charName);
-  //   return qoutes.map((e) => Quote.fromJson(e)).toList();
-  // }
-
-
 }
